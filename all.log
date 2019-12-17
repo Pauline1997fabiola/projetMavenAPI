@@ -1,0 +1,5 @@
+2019-12-17 14:50:55.625 [main] INFO  zoo.CompareSecteur -  Nouvel animal : class zoo.Animal
+2019-12-17 14:50:55.631 [main] DEBUG zoo.CompareSecteur -  debug message
+2019-12-17 14:50:55.631 [main] ERROR zoo.CompareSecteur -  error message
+2019-12-17 14:50:55.631 [main] FATAL zoo.CompareSecteur -  fatal message
+2019-12-17 14:50:55.631 [main] WARN  zoo.CompareSecteur -  warn message
